@@ -6,7 +6,6 @@ public class MyCalc {
 		
 		choose();
 		
-		
 	}
 	static void choose() {
 		System.out.println("ID: 1412504");
@@ -16,7 +15,6 @@ public class MyCalc {
 		System.out.println("2. Subtract two numbers");
 		System.out.println("3. Multiply two numbers");
 		System.out.println("4. Quit");
-		
 		
 		Scanner in = new Scanner(System.in);
 		
